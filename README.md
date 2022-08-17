@@ -1,3 +1,5 @@
 - # sobre mim
 - ola, meu nome é GABRIELgOULART33
--
+- meu email de contato é gabriel.goulart.lima@escola.pr.gov.br
+- eu estou interessado em aprender a progamar novas linguagens
+- estou aprendendo a usar recentemente a linguagem de jaca e Schatch
